@@ -1,0 +1,18 @@
+export default {
+  app: 'ប្រព័ន្ធគ្រប់គ្រង P2B', powered: 'ដំណើរការដោយ P2B System',
+  dashboard: 'ផ្ទាំងគ្រប់គ្រង', operations: 'ប្រតិបត្តិការ', staffPayroll: 'បុគ្គលិក និងប្រាក់ខែ', inventory: 'ស្តុក',
+  finance: 'ហិរញ្ញវត្ថុ', reports: 'របាយការណ៍', telegram: 'តេឡេក្រាម', administration: 'រដ្ឋបាល', overview: 'ទិដ្ឋភាពទូទៅ',
+  dailyOps: 'ប្រតិបត្តិការប្រចាំថ្ងៃ', revenue: 'ចំណូល', coins: 'ប្រតិបត្តិការកាក់', machines: 'ម៉ាស៊ីន',
+  staff: 'បុគ្គលិក', shifts: 'កាលវិភាគវេន', attendance: 'វត្តមាន', overtime: 'ម៉ោងបន្ថែម', advance: 'ប្រាក់ខែបុរេ',
+  payroll: 'ប្រាក់ខែ', payslips: 'បង្កាន់ដៃប្រាក់ខែ', stock: 'ចលនាស្តុក', consumables: 'សម្ភារៈប្រើប្រាស់', suppliers: 'អ្នកផ្គត់ផ្គង់',
+  expenses: 'ចំណាយ', cash: 'ថតសាច់ប្រាក់', debt: 'បំណុល', supplierPay: 'បង់ប្រាក់អ្នកផ្គត់ផ្គង់', closing: 'បិទប្រចាំខែ',
+  telegramCenter: 'មជ្ឈមណ្ឌលតេឡេក្រាម', branches: 'សាខា', users: 'អ្នកប្រើប្រាស់', roles: 'តួនាទី និងសិទ្ធិ', audit: 'កំណត់ហេតុសវនកម្ម', settings: 'ការកំណត់',
+  allBranches: 'គ្រប់សាខា', search: 'ស្វែងរក...', signIn: 'ចូលប្រើ', signOut: 'ចាកចេញ', email: 'អ៊ីមែល', password: 'ពាក្យសម្ងាត់',
+  morning: 'អរុណសួស្តី', afternoon: 'ទិវាសួស្តី', evening: 'សាយណ្ហសួស្តី',
+  noAccess: 'អ្នកមិនមានសិទ្ធិចូលទំព័រនេះទេ។', comingSoon: 'ម៉ូឌុលនេះនឹងត្រូវបង្កើតនៅដំណាក់កាលក្រោយ។',
+  notConfigured: 'មិនទាន់កំណត់ Supabase ទេ។ ចម្លង .env.example ទៅ .env រួចបំពេញតម្លៃ។',
+  noProfile: 'គណនីរបស់អ្នកមិនទាន់មានតួនាទីទេ។ សូមទាក់ទងអ្នកគ្រប់គ្រង។',
+  loginFailed: 'ចូលមិនបាន។ សូមពិនិត្យអ៊ីមែល និងពាក្យសម្ងាត់។',
+  branchCount: 'សាខាដែលអ្នកអាចចូលបាន', yourRole: 'តួនាទីរបស់អ្នក',
+  emptyDash: 'តួលេខអាជីវកម្មនឹងបង្ហាញនៅទីនេះ នៅពេលភ្ជាប់ប្រតិបត្តិការ ហិរញ្ញវត្ថុ និងវត្តមាន។',
+};

@@ -1,0 +1,18 @@
+export default {
+  app: 'P2B Management System', powered: 'Powered by P2B System',
+  dashboard: 'Dashboard', operations: 'Operations', staffPayroll: 'Staff & Payroll', inventory: 'Inventory',
+  finance: 'Finance', reports: 'Reports', telegram: 'Telegram', administration: 'Administration', overview: 'Overview',
+  dailyOps: 'Daily Operations', revenue: 'Revenue', coins: 'Coin Transactions', machines: 'Machines',
+  staff: 'Staff', shifts: 'Shift Calendar', attendance: 'Attendance', overtime: 'Overtime', advance: 'Salary Advance',
+  payroll: 'Payroll', payslips: 'Payslips', stock: 'Stock Movements', consumables: 'Consumables', suppliers: 'Suppliers',
+  expenses: 'Expenses', cash: 'Cash Drawer', debt: 'Debt', supplierPay: 'Supplier Payments', closing: 'Month Closing',
+  telegramCenter: 'Telegram Center', branches: 'Branches', users: 'Users', roles: 'Roles & Permissions', audit: 'Audit Logs', settings: 'Settings',
+  allBranches: 'All Branches', search: 'Search...', signIn: 'Sign in', signOut: 'Sign out', email: 'Email', password: 'Password',
+  morning: 'Good morning', afternoon: 'Good afternoon', evening: 'Good evening',
+  noAccess: 'You do not have access to this page.', comingSoon: 'This module is built in a later phase.',
+  notConfigured: 'Supabase is not configured. Copy .env.example to .env and fill in your project values.',
+  noProfile: 'Your account has no role yet. Please contact your administrator.',
+  loginFailed: 'Sign in failed. Check your email and password.',
+  branchCount: 'Branches you can access', yourRole: 'Your role',
+  emptyDash: 'Business figures appear here once Operations, Finance and Attendance are connected.',
+};
